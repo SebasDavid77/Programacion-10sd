@@ -1,0 +1,4 @@
+# Archivo de datos del estudiante
+NOMBRE=Sebastian David 
+CORREO=sebasmurimo80@gmail.com
+MATERIAS=matematica, arduino, ingles
